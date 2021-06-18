@@ -220,7 +220,7 @@ footer a {
 .intro {
   max-width: 10.8125rem;
   margin: 0 auto .875rem;
-  background-image: url(../images/01.jpg);
+  background-image: url(https://i.imgur.com/h4FA7r3.jpg);
   background-position: center;
   border-radius: 100%
 }
@@ -251,16 +251,16 @@ footer a {
   color: #F8E71C
 }
 div[data-step="1"] {
-  background-image: url(../images/01.jpg)
+  background-image: url(https://i.imgur.com/h4FA7r3.jpg)
 }
 div[data-step="2"] {
-  background-image: url(../images/02.jpg)
+  background-image: url(https://i.imgur.com/mGtdUZF.jpg)
 }
 div[data-step="3"] {
-  background-image: url(../images/03.jpg)
+  background-image: url(https://i.imgur.com/cnK77DD.jpg)
 }
 div[data-step="4"] {
-  background-image: url(../images/04.jpg)
+  background-image: url(https://i.imgur.com/71zIaBZ.jpg)
 }
 div[data-step="5"] {
   display: flex;
@@ -347,7 +347,7 @@ div[data-step="5"] {
   width: 100%;
   max-width: 12rem;
   margin: 0 auto 1.6875rem;
-  background-image: url(../images/014-2.png);
+  background-image: url(https://i.imgur.com/7yNb3ES.png);
   background-repeat: no-repeat;
   background-size: cover
 }
@@ -1003,25 +1003,25 @@ div[data-finish] {
 }
 @media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 275dpi) {
   div[data-step="1"] {
-    background-image: url(../images/01-2.jpg)
+    background-image: url(https://i.imgur.com/ZZNf9HA.jpg)
   }
   body.lang-nl div[data-step="1"] {
-    background-image: url(../images/01-2.jpg)
+    background-image: url(https://i.imgur.com/ZZNf9HA.jpg)
   }
   div[data-step="2"] {
-    background-image: url(../images/02-2.jpg)
+    background-image: url(https://i.imgur.com/dBx0VU1.jpg)
   }
   body.lang-nl div[data-step="2"] {
-    background-image: url(../images/02-2.jpg)
+    background-image: url(https://i.imgur.com/dBx0VU1.jpg)
   }
   div[data-step="3"] {
-    background-image: url(../images/03-2.jpg)
+    background-image: url(https://i.imgur.com/SaW0NgK.jpg)
   }
   div[data-step="4"] {
-    background-image: url(../images/04-2.jpg)
+    background-image: url(https://i.imgur.com/tJ5rTAM.jpg)
   }
   .mosaic--2 {
-    background-image: url(../images/014-2.png)
+    background-image: url(https://i.imgur.com/7yNb3ES.png)
   }
 }
 @media (-webkit-min-device-pixel-ratio: 2.5),(min-resolution: 400dpi) {
@@ -1038,7 +1038,7 @@ div[data-finish] {
     /* background-image: url(../images/../images/3x/013.jpg) */
   }
   .mosaic--2 {
-    background-image: url(../images/014-2.png)
+    background-image: url(https://i.imgur.com/7yNb3ES.png)
   }
 }
 @media (-webkit-min-device-pixel-ratio: 3.5),(min-resolution: 500dpi) {
@@ -1055,7 +1055,7 @@ div[data-finish] {
     /* background-image: url(../images/../images/4x/013.jpg) */
   }
   .mosaic--2 {
-    background-image: url(../images/014-2.png)
+    background-image: url(https://i.imgur.com/7yNb3ES.png)
   }
 }
 /* =========================================================================
