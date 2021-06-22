@@ -14,7 +14,7 @@ body, sub, sup {
   font-weight: 700
 }
 .intro:before, .mosaic--2:after, .mosaic:after {
-  content: 'Find Horny Neighbors'
+  content: ''
 }
 .field__error, .field__error:before {
   box-shadow: 0 0 1.0625rem 0 rgba(0, 0, 0, .37)
